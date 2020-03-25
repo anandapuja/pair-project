@@ -1,0 +1,18 @@
+[
+    {
+        "first_name": "Puja",
+        "last_name": "Wandra",
+        "username": "pujawandra",
+        "password": "12345",
+        "email": "anandapujawandra@gmail.com",
+        "role": "admin"
+    },
+    {
+        "first_name": "Ismail",
+        "last_name": "Shiddiq",
+        "username": "ismailshiddiq",
+        "password": "12345",
+        "email": "is@gmail.com",
+        "role": "member"
+    }
+]
